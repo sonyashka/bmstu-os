@@ -1,0 +1,1 @@
+cmd_/home/sonyashka/sem6/os/lab_04/part_02/part_01/fortune.mod := { echo  /home/sonyashka/sem6/os/lab_04/part_02/part_01/fortune.o;  echo; } > /home/sonyashka/sem6/os/lab_04/part_02/part_01/fortune.mod

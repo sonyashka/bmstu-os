@@ -1,0 +1,1 @@
+cmd_/home/sonyashka/sem6/os/lab_08/tasklet/tasklet.ko := ld -r  -m elf_x86_64  --build-id=sha1  -T scripts/module.lds -o /home/sonyashka/sem6/os/lab_08/tasklet/tasklet.ko /home/sonyashka/sem6/os/lab_08/tasklet/tasklet.o /home/sonyashka/sem6/os/lab_08/tasklet/tasklet.mod.o;  true

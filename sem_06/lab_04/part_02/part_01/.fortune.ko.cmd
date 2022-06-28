@@ -1,0 +1,1 @@
+cmd_/home/sonyashka/sem6/os/lab_04/part_02/part_01/fortune.ko := ld -r  -m elf_x86_64  --build-id=sha1  -T scripts/module.lds -o /home/sonyashka/sem6/os/lab_04/part_02/part_01/fortune.ko /home/sonyashka/sem6/os/lab_04/part_02/part_01/fortune.o /home/sonyashka/sem6/os/lab_04/part_02/part_01/fortune.mod.o;  true

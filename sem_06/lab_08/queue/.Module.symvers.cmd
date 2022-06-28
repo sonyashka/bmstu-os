@@ -1,0 +1,1 @@
+cmd_/home/sonyashka/sem6/os/lab_08/queue/Module.symvers := sed 's/\.ko$$/\.o/' /home/sonyashka/sem6/os/lab_08/queue/modules.order | scripts/mod/modpost -m -a  -o /home/sonyashka/sem6/os/lab_08/queue/Module.symvers -e -i Module.symvers   -T -
